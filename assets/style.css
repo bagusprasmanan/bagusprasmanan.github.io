@@ -108,7 +108,7 @@ footer{
     }
     .sec-4{
         padding: 4rem 0;
-        background: url('assets/bg-last.png');
+        background: url('bg-last.png');
         background-size: cover;
         background-repeat: no-repeat;
     }
@@ -132,7 +132,7 @@ footer{
     }
     .sec-4{
         padding: 4rem 0;
-        background: url('assets/bg-mobile.png');
+        background: url('bg-mobile.png');
         background-size: cover;
         background-repeat: no-repeat;
     }
